@@ -4,7 +4,7 @@
 
 Client requested that we provide an audit of a Colorado congressional election. We were asked to look at county level turnout, votes cast for each candidate, and to determine the winner of the election. We provided the following results for them, based on data provided to us.
 
-![Printed results from analysis](Resources/Results_printout.png)
+![Printed results from analysis](Resources/Results_printout.PNG)
 
 ## Election-Audit Results
 
