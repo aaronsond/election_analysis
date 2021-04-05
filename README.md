@@ -1,6 +1,6 @@
 # election_analysis
 
-##Project Overview
+## Project Overview
 Client requested that we provide an audit of a Colorado congressional election. We provided the following results for them, based on data provided to us:
 
 1. A calculation on total votes cast.
