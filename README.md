@@ -29,3 +29,7 @@ If we were looking at national elections, we could add in code to look at state 
 
 - Data source: election_results.csv
 - Software: Python 3.8.5, Visual Studio Code 1.55.0
+
+## Tools
+* Python
+* Excel
